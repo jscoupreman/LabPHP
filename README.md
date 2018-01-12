@@ -1,3 +1,3 @@
 # LabPHP
 ### Introduction
-This repository is dedicated to my PHP scripts.
+This repository is dedicated for my PHP scripts.
